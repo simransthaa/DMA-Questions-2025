@@ -31,7 +31,7 @@ Include the provided question for your exercise and your answer in the space pro
 > Why might a developer create an instance of an Intent object with each 
 > of the following 3 constructors.
 > 
-> Intent(Context packageContext, Class<?> cls) 
+> Intent(Context packageContext, Class&lt;?&gt; cls) 
 > 
 > Intent(String action) 
 > 
