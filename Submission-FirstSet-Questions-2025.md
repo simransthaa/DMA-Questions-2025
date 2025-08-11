@@ -16,7 +16,7 @@ Include the provided question for your exercise and your answer in the space pro
 
 |   **First Part ${\color{green}-- todo}$**    |    **Extension ${\color{green}-- todo}$**    |
 |:--------------------------------------------:|:--------------------------------------------:|
-| ![birthday part 1](./images/placeholder.jpg) | ![birthday part 2](./images/placeholder.jpg) |
+| ![birthday part 1](./images/placeholder.jpg) | ![birthday part 2](.image/happybirthday_spanish.png) |
 
 
 #### Question ####
@@ -48,7 +48,7 @@ Include the provided question for your exercise and your answer in the space pro
 
 |    **First Part ${\color{green}-- todo}$**    |    **Extension ${\color{green}-- todo}$**     |
 |:---------------------------------------------:|:---------------------------------------------:|
-| ![quadrants part 1](./images/placeholder.jpg) | ![quadrants part 2](./images/placeholder.jpg) |
+| ![quadrants part 1](./image/quadrants.png) | ![quadrants part 2](./images/placeholder.jpg) |
 
 
 #### Question ####
@@ -81,7 +81,7 @@ Include the provided question for your exercise and your answer in the space pro
 
 | **First Part ${\color{green}-- todo}$**  |  **Extension ${\color{green}-- todo}$**  |
 |:----------------------------------------:|:----------------------------------------:|
-| ![woof part 1](./images/placeholder.jpg) | ![woof part 2](./images/placeholder.jpg) |
+| ![woof part 1](.//image/woof.png) | ![woof part 2](./image/woof_click.png) |
 
 
 #### Question ####
@@ -123,7 +123,7 @@ Include the provided question for your exercise and your answer in the space pro
 
 |     **First Part ${\color{green}-- todo}$**     |     **Extension ${\color{green}-- todo}$**      |
 |:-----------------------------------------------:|:-----------------------------------------------:|
-| ![affirmation part 1](./images/placeholder.jpg) | ![affirmation part 2](./images/placeholder.jpg) |
+| ![affirmation part 1](./image/affirmation.png) | ![affirmation part 2](./image/affirmation_final.png) |
 
 
 #### Question ####
