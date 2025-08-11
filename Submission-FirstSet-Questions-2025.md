@@ -16,7 +16,7 @@ Include the provided question for your exercise and your answer in the space pro
 
 |   **First Part ${\color{green}-- todo}$**    |    **Extension ${\color{green}-- todo}$**    |
 |:--------------------------------------------:|:--------------------------------------------:|
-| ![birthday part 1](./images/placeholder.jpg) | ![birthday part 2](.image/happybirthday_spanish.png) |
+| ![birthday part 1](./images/placeholder.jpg) | ![birthday part 2](./image/happybirthday_spanish.png) |
 
 
 #### Question ####
